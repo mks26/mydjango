@@ -1,0 +1,2 @@
+# mydjango
+Django web application
